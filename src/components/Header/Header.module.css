@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.link {
+  text-decoration: none;
+  margin-right: 20px;
+}

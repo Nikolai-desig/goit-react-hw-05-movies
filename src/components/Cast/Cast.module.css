@@ -1,0 +1,21 @@
+.castTitle {
+  margin-left: 20px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.item {
+  margin-bottom: 40px;
+}
+
+.name {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.character {
+  font-size: 13px;
+  font-weight: 500;
+}
