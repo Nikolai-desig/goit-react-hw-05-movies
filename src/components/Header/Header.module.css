@@ -1,11 +1,28 @@
 .navigation {
   display: flex;
-  padding: 20px;
+  padding-bottom: 10px;
   font-size: 18px;
   font-weight: 500;
 }
 
 .link {
+  color: black;
+
+  border-radius: 5px;
+  padding: 5px 20px;
+  font-size: 700;
+  font-weight: 700;
   text-decoration: none;
   margin-right: 20px;
+
+  background: #ffffff;
+  box-shadow: inset 5px 5px 10px #cccccc, inset -5px -5px 10px #ffffff;
+}
+
+.link:hover,
+.link:focus {
+  border: none;
+  color: rgb(0, 0, 0);
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #cccccc, -5px -5px 10px #ffffff;
 }
